@@ -3,7 +3,7 @@
 <ul>
   <li> 🌏 I hail from Malappuram, Kerala.</li>
   <li> Visit my <a href="https://portfolio-eosin-two-67.vercel.app/">Portfolio</a> for more details.</li>
-  <li> ✉️ You can contact me at <a href="mailto:harshac2508@gmail.com">harshac2508@gmail.com</a></li>
+  <li> ✉️ You can connect with me at <a href="mailto:harshac2508@gmail.com">harshac2508@gmail.com</a></li>
 </ul> 
 </br>
 
