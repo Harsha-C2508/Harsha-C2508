@@ -1,5 +1,5 @@
 <h1 align="center">Hai 👋, I'm Harsha C</h1>
-<h2 align="center">A passioante Full Web Stack Developer</h2>
+<h2 align="center">A passioante Full Web Stack Developer from India</h2>
 <ul>
   <li> 🌏 I hail from Malappuram, Kerala.</li>
   <li> Visit my <a href="https://harshac-portfolio.vercel.app/">Portfolio</a> for more details.</li>
