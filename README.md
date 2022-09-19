@@ -1,4 +1,4 @@
-<h1 align="center">Hai 👋, I'm Harsha C</h1>
+<h1 align="center">Hi 👋, I'm Harsha C</h1>
 <h2 align="center">A passioante Full Web Stack Developer from India</h2>
 <ul>
   <li> 🌏 I hail from Malappuram, Kerala.</li>
@@ -27,4 +27,3 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/harsha-c-053b31233/)
 [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)](https://medium.com/@harshac2508)
-[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Harsha-C2508)
