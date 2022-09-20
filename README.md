@@ -2,11 +2,14 @@
 <h2 align="center">A passioante Full Web Stack Developer from India</h2>
 <ul>
   <li> 🌏 I hail from Malappuram, Kerala.</li>
-  <li> Visit my <a href="https://harsha-c2508.github.io/" target="_blank">Portfolio</a> for more details.</li>
+  <li> 🔥 Visit my <a href="https://harsha-c2508.github.io/" target="_blank">Portfolio</a> for more details.</li>
   <li> ✉️ You can connect with me at <a href="mailto:harshac2508@gmail.com">harshac2508@gmail.com</a></li>
+  <li> 🧠 I love to work on the most exciting projects to test my knowledge. And also interested to work with a team and make good relationships with colleagues. Most importantly looking for an ethical and accessible way to solve the problem faced in day-to-day life.</li>
+  <li> 👨‍💻 All my works are available at <a href='https://github.com/Harsha-C2508?tab=repositories'>Repositories</a> </li>
+  <li> 💬 As me about HTML, CSS, Javascript, React and Redux</li>
+  <li> 📄 Know more about me from my <a href="https://drive.google.com/file/d/1AsmFBM3Q_kA4DAzEYwpMKFlzz4LEybHB/view">Resume</a> </li>
 </ul> 
 </br>
-
 <h2>👨🏻‍💻 Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%23007ACC.svg?style=for-the-badge&logo=CSS3&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
