@@ -2,12 +2,19 @@
 <h2 align="center">A passioante Full Web Stack Developer from India</h2>
 <ul>
   <li> 🌏 I hail from Malappuram, Kerala.</li>
+  </br>
   <li> 🔥 Visit my <a href="https://harsha-c2508.github.io/" target="_blank">Portfolio</a> for more details.</li>
+  </br>
   <li> ✉️ You can connect with me at <a href="mailto:harshac2508@gmail.com">harshac2508@gmail.com</a></li>
+  </br>
   <li> 🧠 I love to work on the most exciting projects to test my knowledge. And also interested to work with a team and make good relationships with colleagues. Most importantly looking for an ethical and accessible way to solve the problem faced in day-to-day life.</li>
+  </br>
   <li> 👨‍💻 All my works are available at <a href='https://github.com/Harsha-C2508?tab=repositories'>Repositories</a> </li>
+  </br>
   <li> 💬 As me about HTML, CSS, Javascript, React and Redux</li>
+  </br>
   <li> 📄 Know more about me from my <a href="https://drive.google.com/file/d/1AsmFBM3Q_kA4DAzEYwpMKFlzz4LEybHB/view">Resume</a> </li>
+  
 </ul> 
 </br>
 <h2>👨🏻‍💻 Tech Stack</h2>
