@@ -2,7 +2,7 @@
 <h2 align="center">A passioante Full Web Stack Developer from India</h2>
 <ul>
   <li> 🌏 I hail from Malappuram, Kerala.</li>
-  <li> Visit my <a href="https://harsha-c2508.github.io/">Portfolio</a> for more details.</li>
+  <li> Visit my <a href="https://harsha-c2508.github.io/" target="_blank">Portfolio</a> for more details.</li>
   <li> ✉️ You can connect with me at <a href="mailto:harshac2508@gmail.com">harshac2508@gmail.com</a></li>
 </ul> 
 </br>
