@@ -14,7 +14,8 @@
   <li> 💬 As me about HTML, CSS, Javascript, React and Redux</li>
   </br>
   <li> 📄 Know more about me from my <a href="https://drive.google.com/file/d/1AsmFBM3Q_kA4DAzEYwpMKFlzz4LEybHB/view">Resume</a> </li>
-  
+   </br>
+  <li> I do love to dance , sing songs and create craft Items</li>
 </ul> 
 </br>
 <h2>👨🏻‍💻 Tech Stack</h2>
