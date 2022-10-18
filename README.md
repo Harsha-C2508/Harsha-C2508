@@ -13,7 +13,7 @@
   </br>
   <li> 💬 As me about HTML, CSS, Javascript, React and Redux</li>
   </br>
-  <li> 📄 Know more about me from my <a href="https://drive.google.com/file/d/1s2ioyuCYS8eu4wAODHKbpfyxeHvKsmEl/view?usp=sharing">Resume</a> </li>
+  <li> 📄 Know more about me from my <a href="https://drive.google.com/file/d/1TmCHD_RdeSKj3bESlsz8RhwxiiiMbEjE/view?usp=sharing">Resume</a> </li>
    </br>
   <li> I do love to dance , sing songs and create craft Items</li>
 </ul> 
