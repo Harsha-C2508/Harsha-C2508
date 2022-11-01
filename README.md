@@ -3,7 +3,7 @@
 <ul>
   <li> 🌏 I hail from Malappuram, Kerala.</li>
   </br>
-  <li> 🔥 Visit my <a href="https://harsha-c-portfolio.vercel.app" target="_blank">Portfolio</a> for more details.</li>
+  <li> 🔥 Visit my <a href="https://harsha-c2508.github.io" target="_blank">Portfolio</a> for more details.</li>
   </br>
   <li> ✉️ You can connect with me at <a href="mailto:harshac2508@gmail.com">harshac2508@gmail.com</a></li>
   </br>
