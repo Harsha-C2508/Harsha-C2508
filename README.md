@@ -34,7 +34,6 @@
 <h2>Badges</h2>
 
 <b>My GitHub stats</b> </br> </br>
- <a href="http://www.github.com/Navedphysicist"><img src="https://github-readme-stats.vercel.app/api?username=Harsha-C2508&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="harsha" /></a> </br> </br>
+ <a href="http://www.github.com/Harsha-C2508"><img src="https://github-readme-stats.vercel.app/api?username=Harsha-C2508&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="harsha" /></a> </br> </br>
 <a href="https://github.com/Harsha-C2508"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-C2508&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a> </br> </br>
 <a href="https://github.com/Harsha-C2508"> <img src="https://activity-graph.herokuapp.com/graph?username=Harsha-C2508&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph%22%20alt=%22GitHub%20Commits%20Graph"/></a> </br> </br>
-<a href="https://github.com/Harsha-C2508"> <img src=""/></a> </br> </br>
