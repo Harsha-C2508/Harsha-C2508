@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsha C</h1>
+<h1 align="center">Hi👋, I'm Harsha C</h1>
 <h2 align="center">A passionate Full Web Stack Developer from India</h2>
 <ul>
   <li> 🌏 I hail from Malappuram, Kerala.</li>
