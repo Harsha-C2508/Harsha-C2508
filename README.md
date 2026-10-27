@@ -81,8 +81,6 @@ Designing and developing personalized wedding websites for individual clients, c
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harsha-c2508.github.io)
 
-*Individual client websites can be showcased with permission. Client source code and private information remain confidential where required.*
-
 ---
 
 ## 🚀 Featured Projects
