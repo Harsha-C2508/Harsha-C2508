@@ -9,8 +9,6 @@ Building modern web applications, developer tools, and personalized digital expe
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harsha-c2508.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-c-053b31233/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harsha-C2508&style=flat-square&color=2563eb&label=PROFILE+VIEWS)
-
 </div>
 
 ---
