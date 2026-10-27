@@ -78,7 +78,7 @@ A personalized wedding website with a romantic visual direction and a modern, re
 
 **Tech:** React · TypeScript · Tailwind CSS
 
-[View Repository](https://github.com/Harsha-C2508/weddingWebsite) · [Visit Portfolio](https://harsha-c2508.github.io)
+[View Repository](https://github.com/Harsha-C2508/weddingWebsite)
 
 <div align="center">
 
